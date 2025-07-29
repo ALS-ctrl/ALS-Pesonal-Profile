@@ -1,34 +1,50 @@
-# ALS-Pesonal-Profile
-This is my personal portfolio website
 
 🔗 [Live Demo](https://alspersonalportfolio.netlify.app)
 
-📁 Features 
+# 💼 Amanda Skosana — Personal Portfolio Website
 
-Clean and elegant responsive design 
+## ✨ Features
 
-Animated headline: "I am an Economist | Data Scientist | Analyst" 
+- Clean, elegant UI with rotating identity tags (e.g. "I am an Economist", "I am a Data Scientist")
+- Interactive project previews and GitHub links
+- Downloadable resume (CV)
+- Responsive design for mobile and desktop
+- Contact form for easy outreach
+- Skills section with tech stack and tools
 
-Project cards with GitHub and live demo links 
+---
 
-Contact form with email functionality 
+## 🧰 Tech Stack
 
-Resume download button 
+- **Languages**: HTML5, CSS3, JavaScript
+- **Libraries/Frameworks**: Tailwind CSS (or custom CSS), optional JavaScript animations
+- **Hosting**: [Netlify](https://www.netlify.com/)
+- **Version Control**: Git & GitHub
 
-🧠 Skills Highlighted 
+---
 
-Python, R, SQL, Excel 
+## 🖼️ Screenshots
 
-AI/ML: Scikit-learn, PyTorch, TensorFlow 
+| Home Page | Projects Section |
+|----------|------------------|
+| ![Home](assets/screenshots/home.png) | ![Projects](assets/screenshots/projects.png) |
 
-Data Tools: Power BI, Tableau, EViews 
+> You can add your actual screenshots to a folder called `assets/screenshots` or update the image paths.
 
-Big Data: Spark, Hadoop, Dask 
+---
 
-📂 Projects Included 
+## 🚀 Getting Started Locally
 
-AI Resume Builder 
+To run the project locally:
 
-AI Study Buddy 
+1. Clone the repo
+   ```bash
+   git clone https://github.com/your-username/your-portfolio-repo.git
 
-Sentiment Dashboard 
+2. Navigate into the project folder
+
+cd portfolio
+
+3. Find the index.html file inside the folder
+
+Double-click it to open in your browser
