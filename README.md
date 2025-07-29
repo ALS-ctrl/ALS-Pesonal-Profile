@@ -1,9 +1,7 @@
 # ALS-Pesonal-Profile
 This is my personal portfolio website
 
- Live Website 
-file:///C:\Users\C%20APACITI-JHB\AmandaSkosanaPortfolio\index.html
-View Portfolio Live 
+🔗 [Live Demo](https://alspersonalportfolio.netlify.app)
 
 📁 Features 
 
