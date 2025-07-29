@@ -1,8 +1,8 @@
 # ALS-Pesonal-Profile
 This is my personal portfolio website
 
-🔗 Live Website 
-
+ Live Website 
+file:///C:\Users\C%20APACITI-JHB\AmandaSkosanaPortfolio\index.html
 View Portfolio Live 
 
 📁 Features 
